@@ -1,6 +1,6 @@
-# eslint-config-cg
+_Based off of [https://github.com/natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)_
 
-Based off of [https://github.com/natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
+# eslint-config-cg
 
 It lints your javascript projects with ease, based on the popular [javascript
 code style from Airbnb](https://www.npmjs.com/package/eslint-config-airbnb).
