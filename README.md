@@ -1,12 +1,6 @@
 # eslint-config-cg
 
-[![npm version](https://badge.fury.io/js/eslint-config-cg.svg)](https://badge.fury.io/js/eslint-config-cg)
-[![GitHub license](https://img.shields.io/github/license/christowiz/eslint-config-cg.svg)](https://github.com/christowiz/eslint-config-cg/blob/master/LICENCE)
-
-In August 2018, I published an article with the title
-["How to create your own shared esLint, prettier and stylelint configuration"](https://nttr.st/2MOAAGc)
-on [Medium](http://nttr.st/1REplMW). One of the results of the article, is this
-shareable eslint-config (and the one for [stylelint](https://nttr.st/2OUpTQP)).
+Based off of [https://github.com/natterstefan/stylelint-config-ns](https://github.com/natterstefan/stylelint-config-ns)
 
 It lints your javascript projects with ease, based on the popular [javascript
 code style from Airbnb](https://www.npmjs.com/package/eslint-config-airbnb).
