@@ -1,22 +1,18 @@
 {
   "name": "eslint-config-cg",
-  "version": "0.4.0",
+  "version": "0.1.0",
   "description": "eslint config ready to be used in multiple projects",
   "keywords": [
     "eslint",
     "eslint-config",
     "prettier",
-    "prettier-config",
-    "stylelint",
-    "stylelint-config"
+    "prettier-config"
   ],
   "main": "index.js",
   "files": [
     "index.js",
     "prettier.js",
-    "prettier.config.js",
-    "stylelint.js",
-    "stylelint.config.js"
+    "prettier.config.js"
   ],
   "repository": {
     "type": "git",
@@ -46,10 +42,6 @@
     "eslint-plugin-promise": ">= 4.1.1 <5",
     "eslint-plugin-react": ">= 7.12.4 <8",
     "eslint-plugin-react-hooks": ">=1.6.0 <2",
-    "stylelint": ">= 10.0.1 <11",
-    "stylelint-config-prettier": ">= 5.1.0 <6",
-    "stylelint-no-unsupported-browser-features": ">= 3.0.2 <4",
-    "stylelint-prettier": ">= 1.0.6 <2",
     "prettier": ">=1.16.4 <2"
   }
 }
