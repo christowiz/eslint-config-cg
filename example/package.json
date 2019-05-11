@@ -1,8 +1,8 @@
 {
-  "name": "example-for-eslint-confing-ns",
+  "name": "example-for-eslint-config-cg",
   "private": true,
-  "version": "0.2.0",
-  "description": "Example code for eslint-config-ns",
+  "version": "0.1.0",
+  "description": "Example code for eslint-config-cg",
   "main": "src/index.js",
   "scripts": {
     "coverage": "jest --coverage",
@@ -12,7 +12,7 @@
     "test": "jest ./src",
     "watch-test": "jest --watch"
   },
-  "author": "Stefan Natter",
+  "author": "Christopher Gwizdala",
   "license": "MIT",
   "lint-staged": {
     "*.js": [
