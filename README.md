@@ -7,8 +7,6 @@ code style from Airbnb](https://www.npmjs.com/package/eslint-config-airbnb).
 
 ## Features
 
-- based on the the popular [javascript
-code style from Airbnb](https://www.npmjs.com/package/eslint-config-airbnb)
 - easy switchable to their smaller set of rules [eslint-config-airbnb-base](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base)
 - with prettier support, thanks to [eslint-plugin-prettier](prettier.io/docs/en/eslint.html#use-eslint-to-run-prettier)
 - with [react](https://reactjs.org/), [react-hooks](https://reactjs.org/docs/hooks-intro.html)
@@ -22,7 +20,7 @@ well.
 
 Install the package with
 
- ```sh
+```sh
 npm install eslint-config-cg --save-dev
 
 # or
